@@ -14,6 +14,8 @@ https://cdn.jsdelivr.net/gh/Naimur2/Bangladeshi-Taka-Icon/style.css
 <i class="sf bdt-rounded-close"></i>
 ```
 
+#### \*Default Font Size 3rem(48px)
+
 ## Classes
 
 ```
@@ -52,4 +54,4 @@ sf bdt-three-open
 sf bdt-three-close
 ```
 
-### Curtesy: Sohid Barkat Font | Nirmala Ui | Kalpurush ANSII
+##### Curtesy: Sohid Barkat Font | Nirmala Ui | Kalpurush ANSII
