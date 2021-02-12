@@ -1,6 +1,6 @@
 # Bangladeshi Taka Icon Like Font Awesome
 
-![alt taka](images/taka.png)
+<img src="images/taka.png" width="100" height="100">
 
 ## Installation CDN Link
 
