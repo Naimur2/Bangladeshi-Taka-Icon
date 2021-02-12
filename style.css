@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Currency-icon';
-  src:  url('fonts/Currency-icon.eot?k01eyq');
-  src:  url('fonts/Currency-icon.eot?k01eyq#iefix') format('embedded-opentype'),
-    url('fonts/Currency-icon.ttf?k01eyq') format('truetype'),
-    url('fonts/Currency-icon.woff?k01eyq') format('woff'),
-    url('fonts/Currency-icon.svg?k01eyq#Currency-icon') format('svg');
+  src:  url('fonts/Currency-icon.eot?6lic53');
+  src:  url('fonts/Currency-icon.eot?6lic53#iefix') format('embedded-opentype'),
+    url('fonts/Currency-icon.ttf?6lic53') format('truetype'),
+    url('fonts/Currency-icon.woff?6lic53') format('woff'),
+    url('fonts/Currency-icon.svg?6lic53#Currency-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,20 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.bdt-rounded-close:before {
+  content: "\e907";
+}
 .bdt-rounded-open:before {
   content: "\e906";
 }
 .bdt-two-open:before {
   content: "\e903";
-}
-.bdt-rounded-close .path1:before {
-  content: "\e907";
-  color: rgb(0, 0, 0);
-}
-.bdt-rounded-close .path2:before {
-  content: "\e908";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .bdt-three-close:before {
   content: "\e900";
