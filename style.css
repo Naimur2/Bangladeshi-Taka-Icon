@@ -1,18 +1,17 @@
 @font-face {
-  font-family: 'Currency-icon';
-  src:  url('fonts/Currency-icon.eot?6lic53');
-  src:  url('fonts/Currency-icon.eot?6lic53#iefix') format('embedded-opentype'),
-    url('fonts/Currency-icon.ttf?6lic53') format('truetype'),
-    url('fonts/Currency-icon.woff?6lic53') format('woff'),
-    url('fonts/Currency-icon.svg?6lic53#Currency-icon') format('svg');
+  font-family: "Currency-icon";
+  src: url("fonts/Currency-icon.eot?6lic53");
+  src: url("fonts/Currency-icon.eot?6lic53#iefix") format("embedded-opentype"),
+    url("fonts/Currency-icon.ttf?6lic53") format("truetype"),
+    url("fonts/Currency-icon.woff?6lic53") format("woff"),
+    url("fonts/Currency-icon.svg?6lic53#Currency-icon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
 .sf {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Currency-icon' !important;
+  font-family: "Currency-icon" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -20,7 +19,6 @@
   text-transform: none;
   line-height: 1;
 
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
