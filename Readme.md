@@ -62,7 +62,7 @@ sf bdt-two-open
 sf bdt-two-close
 ```
 
-<img src="images/three-close.png" width="300" height="50">
+<img src="images/three-open.png" width="300" height="50">
 
 ```
 sf bdt-three-open
