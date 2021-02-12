@@ -1,28 +1,30 @@
 @font-face {
-  font-family: "Currency-icon";
-  src: url("fonts/Currency-icon.eot?6lic53");
-  src: url("fonts/Currency-icon.eot?6lic53#iefix") format("embedded-opentype"),
-    url("fonts/Currency-icon.ttf?6lic53") format("truetype"),
-    url("fonts/Currency-icon.woff?6lic53") format("woff"),
-    url("fonts/Currency-icon.svg?6lic53#Currency-icon") format("svg");
+  font-family: "currency-icon";
+  src: url("fonts/currency-icon.eot?fdpzd2");
+  src: url("fonts/currency-icon.eot?fdpzd2#iefix") format("embedded-opentype"),
+    url("fonts/currency-icon.ttf?fdpzd2") format("truetype"),
+    url("fonts/currency-icon.woff?fdpzd2") format("woff"),
+    url("fonts/currency-icon.svg?fdpzd2#currency-icon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
 .sf {
-  font-family: "Currency-icon" !important;
-  speak: never;
+  font-family: "currency-icon" !important;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
+  font-size: 3rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+.bdt-rounded-thin:before {
+  content: "\e908";
+}
 .bdt-rounded-close:before {
   content: "\e907";
 }
